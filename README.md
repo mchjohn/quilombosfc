@@ -5,6 +5,8 @@ Nesse app os dados dos jogadores é buscado numa api externa hospedada no Heroku
 **Bibliotecas utilizadas no projeto:**
 async-storage, linear-gradient, react-navigation, fetch, react-native-reanimated.
 
+Obs: Esse projeto está em andamento.
+
 <hr />
 
 **Screenshots do App:**
